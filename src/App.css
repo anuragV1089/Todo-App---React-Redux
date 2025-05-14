@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui;
+}
+
+.appContainer {
+  background-color: #3b3b3b;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 400px;
+  min-height: 700px;
+  position: relative;
+  background-color: white;
+  padding: 10px;
+  position: relative;
+  border-radius: 5px;
+}
