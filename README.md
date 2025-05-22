@@ -41,4 +41,3 @@ cd your-repo-name
 npm install
 npm run dev
 
-## 📦 Installation
